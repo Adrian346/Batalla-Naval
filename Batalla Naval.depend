@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1482711216 source:c:\batalla naval\main.c
+	<stdio.h>
+	<allegro.h>
+	<stdlib.h>
+
+1482720004 source:c:\users\adrian lopez\documents\lenguaje c\batalla naval\main.c
+	<stdio.h>
+	<allegro.h>
+	<stdlib.h>
+
